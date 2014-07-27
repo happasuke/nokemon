@@ -1,0 +1,13 @@
+﻿2014/05/13 10:43:08 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "c:\Users\葉介\documents\visual studio 2013\Projects\pokemon2013\pokemon2013\pokemon2013.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\葉介\Downloads\DxLib_VC\プロジェクトに追加すべきファイル_VC用" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\葉介\documents\visual studio 2013\Projects\pokemon2013\Debug\pokemon2013.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\葉介\Downloads\DxLib_VC\プロジェクトに追加すべきファイル_VC用" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\葉介\documents\visual studio 2013\Projects\pokemon2013\Debug\pokemon2013.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\葉介\documents\visual studio 2013\Projects\pokemon2013\Debug\pokemon2013.lib" /MACHINE:X86 Debug\Source.obj
+         pokemon2013.vcxproj -> c:\users\葉介\documents\visual studio 2013\Projects\pokemon2013\Debug\pokemon2013.exe
+     1>プロジェクト "c:\Users\葉介\documents\visual studio 2013\Projects\pokemon2013\pokemon2013\pokemon2013.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:09.12
